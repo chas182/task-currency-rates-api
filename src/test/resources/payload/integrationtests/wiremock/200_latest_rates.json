@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "timestamp": %d,
+  "base": "%s",
+  "date": "%s",
+  "rates": {
+    "GBP": 0.72007,
+    "JPY": 107.346001
+  }
+}
